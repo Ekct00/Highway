@@ -4,7 +4,7 @@ from driveFaster.items import DrivefasterItem
 
 class CarSpider(scrapy.Spider):
     name = "car"
-    key = "藤浦めぐ"
+    key = "民主自由"
     page_number = 4
     url = []
     allow_domains = ["torrentkitty.tv"]
