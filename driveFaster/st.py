@@ -1,4 +1,4 @@
-key = "苍井空"
+key = "马克思与恩格斯"
 page_number = 4
 url = []
 allow_domains = ["torrentkitty.tv"]
